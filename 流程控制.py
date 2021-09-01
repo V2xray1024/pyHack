@@ -2,7 +2,7 @@
 Description: python 流程控制练习
 Author: yrwang
 Date: 2021-08-30 18:25:59
-LastEditTime: 2021-08-30 19:54:08
+LastEditTime: 2021-09-01 22:37:26
 LastEditors: yrwang
 '''
 # 单分支/双分支
@@ -19,8 +19,8 @@ elif
 else
 '''
 girl_age = 30
-count = 0 
-while count<3:
+count = 0
+while count < 3:
     count += 1
     your_guess = int(input("输入你的猜测："))
     if your_guess > girl_age:
