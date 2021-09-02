@@ -2,9 +2,10 @@
 Description: python 流程控制练习
 Author: yrwang
 Date: 2021-08-30 18:25:59
-LastEditTime: 2021-09-01 22:37:26
+LastEditTime: 2021-09-02 21:39:16
 LastEditors: yrwang
 '''
+
 # 单分支/双分支
 age = int(input("your age is:"))
 if age < 25:

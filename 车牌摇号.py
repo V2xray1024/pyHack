@@ -2,7 +2,7 @@
 Description: 车牌摇号练习
 Author: yrwang
 Date: 2021-08-30 20:11:42
-LastEditTime: 2021-09-01 22:37:29
+LastEditTime: 2021-09-02 21:37:46
 LastEditors: yrwang
 '''
 import random

@@ -2,9 +2,10 @@
 Description: 循环练习
 Author: yrwang
 Date: 2021-08-30 19:19:41
-LastEditTime: 2021-08-30 20:10:50
+LastEditTime: 2021-09-02 21:39:30
 LastEditors: yrwang
 '''
+
 # 1 打印1-100的奇偶数
 for i in range(100):
     if i % 2 == 0:

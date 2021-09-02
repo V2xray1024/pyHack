@@ -3,7 +3,7 @@
 Description: 要求用户输入账号密码进行登录、用户账号信息保存在文件内、用户密码输错三次后锁定用户，下次再登录，检测到是这个已经被锁定的用户，则不允许登录，提示被锁
 Author: yrwang
 Date: 2021-09-01 21:09:38
-LastEditTime: 2021-09-01 21:43:08
+LastEditTime: 2021-09-02 21:39:34
 LastEditors: yrwang
 '''
 '''
@@ -16,6 +16,8 @@ account = {
 }
 3.循环，要求用户输入账号密码，加判断
 '''
+
+
 accounts = {}
 f = open("account.db", "r")
 for line in f:

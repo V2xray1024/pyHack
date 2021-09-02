@@ -2,7 +2,7 @@
 Description: 打印练习
 Author: yrwang
 Date: 2021-08-30 18:19:51
-LastEditTime: 2021-09-01 22:37:31
+LastEditTime: 2021-09-02 21:37:51
 LastEditors: yrwang
 '''
 name = input("name is:")
