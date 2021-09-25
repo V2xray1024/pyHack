@@ -79,9 +79,9 @@ try:
             e = 65535
             scan_port_range(sys.argv[1])
 except KeyboardInterrupt:
-    print("="*50)
-    print("="*18+"program end"+"="*18)
-    print("="*50)
+    print("=" * 50)
+    print("=" * 18 + "program end" + "=" * 18)
+    print("=" * 50)
 
 # 使用端口扫描工具
 # scan_port('127.0.0.1')
